@@ -1,0 +1,22 @@
+[{ 
+    "id"                    : "2281",
+    "email"                 : "rob.eberhardt@gmail.com",
+    "fname"                 : "Rob",
+    "lname"                 : "Eberhardt",
+    "username"              : "robeberhardt",
+    "password"              : "thx1138",
+    "signedup"              : "true",
+    "appDL"                 : "false"
+
+},
+{ 
+    "id"                    : "2282",
+    "email"                 : "robber.reberhardt@gmail.com",
+    "fname"                 : "Robber",
+    "lname"                 : "Eberrobhardt",
+    "username"              : "Eberrobeberhardt",
+    "password"              : "thxxx1138",
+    "signedup"              : "true",
+    "appDL"                 : "false"
+
+}]
